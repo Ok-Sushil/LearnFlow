@@ -4,9 +4,6 @@
 //
 // This spec file contains a variety of sample tests
 
-// the power of writing tests in Cypress.
-//
-//
 
 describe('example to-do app', () => {
   beforeEach(() => {
